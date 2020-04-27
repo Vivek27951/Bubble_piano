@@ -1,2 +1,8 @@
-# Bubble_piano
-In this project, pressing  any alphabet key projects a bubble(at random screen space) of  color(color changes with size of bubble) and a musical sound(each key produce different sound).
+Neuronal Synchrony
+==================
+
+A collection of two dimensional animations that are triggered by sound.
+
+(c) 2012 - 2013 [jonobr1](http://jonobr1.com/). Freely distributed under the [MIT License](http://opensource.org/licenses/MIT).
+
+Prototyped with [Processing](http://processing.org/), built with [JavaScript](http://jonobr1.github.com/two.js).
